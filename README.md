@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @elispax
-- 🌱 I’m currently learning
+- Hi, I’m @elispax
+- 🌱 I’m just learning stuff
 
 <!---
 elispax/elispax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
